@@ -1,4 +1,4 @@
-Yet another good-question-checklist for Stack Overflow!
+[Yet another good-question-checklist for Stack Overflow!](https://can-i-haz.codes)
 
 ## But... why? 🤦‍♂️
 
